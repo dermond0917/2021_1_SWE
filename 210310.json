@@ -1,0 +1,5125 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615381372.000200",
+        "user": "U01QKQ7KJ2J",
+        "text": "<@U01QKQ7KJ2J> 님이 채널에 참여함"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615381375.000400",
+        "user": "U01QBGBRH6K",
+        "text": "<@U01QBGBRH6K> 님이 채널에 참여함",
+        "inviter": "U01QKQ7KJ2J"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615381376.000600",
+        "user": "U01QBGLB57Z",
+        "text": "<@U01QBGLB57Z> 님이 채널에 참여함",
+        "inviter": "U01QKQ7KJ2J"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615381376.000800",
+        "user": "U01QPF0KJ77",
+        "text": "<@U01QPF0KJ77> 님이 채널에 참여함",
+        "inviter": "U01QKQ7KJ2J"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615381376.001000",
+        "user": "U01QS9C5DUJ",
+        "text": "<@U01QS9C5DUJ> 님이 채널에 참여함",
+        "inviter": "U01QKQ7KJ2J"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615381377.001200",
+        "user": "U01QYLF09FE",
+        "text": "<@U01QYLF09FE> 님이 채널에 참여함",
+        "inviter": "U01QKQ7KJ2J"
+    },
+    {
+        "client_msg_id": "0e44d90a-37c8-4cd3-9a80-dfe58049d4a8",
+        "type": "message",
+        "text": "저희 5분에 시작하도록할게용 확인하셨으면 밑에 기록 남겨주세요",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615381431.001800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rzM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저희 5분에 시작하도록할게용 확인하셨으면 밑에 기록 남겨주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d4015b9-04b4-4163-8c67-8fb5792d26d4",
+        "type": "message",
+        "text": "네",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615381438.002200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRR3J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70bc429a-2203-4ad5-8e13-0cbab13e41bd",
+        "type": "message",
+        "text": "네 확인했습니다",
+        "user": "U01QPF0KJ77",
+        "ts": "1615381441.002300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S68",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 확인했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba9c9002-0453-4561-b543-37919912e0b8",
+        "type": "message",
+        "text": "확인했습니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615381447.002500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PAyP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92633119-4384-4781-a987-4f2bd2e854bb",
+        "type": "message",
+        "text": "확인했습니다",
+        "user": "U01QYLF09FE",
+        "ts": "1615381457.002700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KULi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a22942d-d85c-40e1-b7b6-1d7247254403",
+        "type": "message",
+        "text": "슬랙 메인으로 오늘 하기로 해요~",
+        "user": "U01QPF0KJ77",
+        "ts": "1615381768.003200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "슬랙 메인으로 오늘 하기로 해요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62648954-da59-4fe3-bd4d-83225440b1c9",
+        "type": "message",
+        "text": "넵",
+        "user": "U01QYLF09FE",
+        "ts": "1615381776.003500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLZ7G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4157d0c9-114d-4bf7-96cd-239a94f9b95e",
+        "type": "message",
+        "text": "먼저 3번문제 관련해서 discuss.. 해보겠습니다!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615381808.004200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acdv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "먼저 3번문제 관련해서 discuss.. 해보겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0cd54a1-6311-4618-bc9d-2cb8925e5f30",
+        "type": "message",
+        "text": "먼저 공유해주실 분 계신가요?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615381816.004500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y7Lu4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "먼저 공유해주실 분 계신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3fd943a-46a4-405a-b3a6-8856ce77bd3f",
+        "type": "message",
+        "text": "저는 3번을 제일 간단하게 적어봤는데요. 교수님도 자세히 설명하신것 같지는 않아서 HW, SW, operator가 independent하지 않다.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615381866.005600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YPk1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 3번을 제일 간단하게 적어봤는데요. 교수님도 자세히 설명하신것 같지는 않아서 HW, SW, operator가 independent하지 않다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e715b16-4197-47f5-8fcd-d2fbdf248bd7",
+        "type": "message",
+        "text": "그래서 하나의 failure가 다른 failure로 이어질 수 있다. propagate될 수 있다 적었습니다.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615381895.006600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그래서 하나의 failure가 다른 failure로 이어질 수 있다. propagate될 수 있다 적었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8619a18-2b76-400b-964a-095651312ab4",
+        "type": "message",
+        "text": "다른분",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615381910.007400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다른분"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c72a61c1-17dd-44b0-b6e4-29c7dce07492",
+        "type": "message",
+        "text": "또계신가요?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615381913.007700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/OMDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "또계신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0e55018-e09f-4f50-8bfb-74ab7dda82e0",
+        "type": "message",
+        "text": "저는 좀 더 예시측면으로 들었는데",
+        "user": "U01QYLF09FE",
+        "ts": "1615381915.007900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "riqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 좀 더 예시측면으로 들었는데"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d182afee-5888-472c-90ef-25670719c58c",
+        "type": "message",
+        "text": "시스템의 요소들은 서로 의존도가 있어서 한곳에서 에러가 터지면 다른 영역으로 퍼지게 된다. 하드웨어에서 오류가 나면 그로인해 잘못된 신호를 받은 소프트웨어에도 오류가 나게 되고, 이 오류를 본 오퍼레이터는 그걸 고치려고 하겠지만, 되려 다른 실수를 소프트웨어에 가하게 될 수 있다. 잘못된 소프트웨어는 다시 하드웨어로 이상한 지시를 내리게 될 수 있다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615381952.008800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9H3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "시스템의 요소들은 서로 의존도가 있어서 한곳에서 에러가 터지면 다른 영역으로 퍼지게 된다. 하드웨어에서 오류가 나면 그로인해 잘못된 신호를 받은 소프트웨어에도 오류가 나게 되고, 이 오류를 본 오퍼레이터는 그걸 고치려고 하겠지만, 되려 다른 실수를 소프트웨어에 가하게 될 수 있다. 잘못된 소프트웨어는 다시 하드웨어로 이상한 지시를 내리게 될 수 있다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25df126e-1bfc-4af6-9a93-08e59678facc",
+        "type": "message",
+        "text": "그런 느낌이지 않을까 싶습니다",
+        "user": "U01QYLF09FE",
+        "ts": "1615381969.009600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BaJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그런 느낌이지 않을까 싶습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27aea6c7-7d2f-49c9-afa5-781d18b0d28f",
+        "type": "message",
+        "text": "Failure from hardware: affects the software and its effect on the operation\nFailure from software: not always affect hardware because we can design barriers\n\n소프트웨어적인 오류는 하드웨어에 저장되기 전까지 추가 작업을 통해서 완화 할 수 있다.",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615381972.009900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Failure from hardware: affects the software and its effect on the operation\nFailure from software: not always affect hardware because we can design barriers\n\n소프트웨어적인 오류는 하드웨어에 저장되기 전까지 추가 작업을 통해서 완화 할 수 있다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57b788f5-dd1a-4cfd-8dbf-68e7d0efb49b",
+        "type": "message",
+        "text": "하드웨어에서 failure 가 발생하면 error 신호가 발생해서, 소프트웨어 부분에 잘못된 알람을 발생시킬 수 있다. 정도로 하면 좀 더 디테일할 것 같아요",
+        "user": "U01QBGBRH6K",
+        "ts": "1615381992.010500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ey4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하드웨어에서 failure 가 발생하면 error 신호가 발생해서, 소프트웨어 부분에 잘못된 알람을 발생시킬 수 있다. 정도로 하면 좀 더 디테일할 것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcfe5306-aa1b-46dd-84c4-665fd5f58b1b",
+        "type": "message",
+        "text": "저도 성원님이랑 비슷하게 예시로 들었는데, 하드웨어에서 연산이 불가하면 소프트웨어가 의도한 연산을 해낼 수 없다",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382010.011000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MhygY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 성원님이랑 비슷하게 예시로 들었는데, 하드웨어에서 연산이 불가하면 소프트웨어가 의도한 연산을 해낼 수 없다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e025c3dd-4268-4a4f-8b64-d2debdf2a69e",
+        "type": "message",
+        "text": "결국 오퍼레이터도 예상밖의 프로세스를 발생시킬 수 있다..요런식으로 적었어요",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382024.011700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMJ4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "결국 오퍼레이터도 예상밖의 프로세스를 발생시킬 수 있다..요런식으로 적었어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6C749EC4-149F-4057-ABF8-46DD496591AB",
+        "type": "message",
+        "text": "저는\n각각 독립적으로 failure이 발생하는 것이 아니라, 전부 상호작용을 통해서 일어난다.\n 한 부분에서의 failure이  다른 failure을 야기하는 식으로 failure이 propagate된다.\n이렇게 적었급니다!",
+        "user": "U01QBGLB57Z",
+        "ts": "1615382033.011900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pATf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는\n각각 독립적으로 failure이 발생하는 것이 아니라, 전부 상호작용을 통해서 일어난다.\n 한 부분에서의 failure이  다른 failure을 야기하는 식으로 failure이 propagate된다.\n이렇게 적었급니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "320ecb65-dfdd-4681-a056-1b0ac4838b3c",
+        "type": "message",
+        "text": "그 반대방향으로 오퍼레이터가 예상밖의 프로세스를 했을때 소프트웨어가 무한루프 돌게되면 하드웨어에 과부하.. 요런거도 적어보았습니다",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382065.012700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OttM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그 반대방향으로 오퍼레이터가 예상밖의 프로세스를 했을때 소프트웨어가 무한루프 돌게되면 하드웨어에 과부하.. 요런거도 적어보았습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b0b8ba2-ea2b-42b7-853a-9993a381c6a2",
+        "type": "message",
+        "text": "그럼 모두 말씀하신 것 같아서 4번으로 넘어가보겠습니다",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382090.013200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8k3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 모두 말씀하신 것 같아서 4번으로 넘어가보겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54e41c69-22de-4584-9ece-5f617d0d3712",
+        "type": "message",
+        "text": "저는 4가지  process 의 인과관계를 좀 고려해봤습니다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615382180.014900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 4가지  process 의 인과관계를 좀 고려해봤습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76e65091-daf9-44fd-8a0e-f6ca50508d7a",
+        "type": "message",
+        "text": "컨셉츄얼 디자인에서 목적과 소비자 요구사항을 파악하면 그건 기반으로 procurement에서 기능성에 대한 비중 분배와 써먹을 요소들을 구한다. 이걸 기반으로 시스템을 만드는데 이때 완제품 사용을 위한 가이드나 툴팁 등도 만들게 되고, 최종적으로 operation단계에서 이 툴팁을 기반으로 써먹는다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615382183.015100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "컨셉츄얼 디자인에서 목적과 소비자 요구사항을 파악하면 그건 기반으로 procurement에서 기능성에 대한 비중 분배와 써먹을 요소들을 구한다. 이걸 기반으로 시스템을 만드는데 이때 완제품 사용을 위한 가이드나 툴팁 등도 만들게 되고, 최종적으로 operation단계에서 이 툴팁을 기반으로 써먹는다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6449EA34-9848-40C1-8F57-1D8AA1682749",
+        "type": "message",
+        "text": "저도 비슷하게 작성했는데, \nConceptual design과 procurement을 통해, system의 요구사항, 목적, 특징들을 명세화 한 후, 어떻게component들이 구성이 되며, 어떤 방식을 조달할 지에 대한 결정을 한다. \n이후 development 과정에서 component들의 구성이 이루어진다. \n그러한 과정을 거친 후에, operation과정을 거쳐 system이 운용이 올바르게 이루어져야한다. 이 모든 과정은 시스템의 요구사항이 모두 충족될 때까지 반복된다.\n",
+        "user": "U01QBGLB57Z",
+        "ts": "1615382247.017300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 비슷하게 작성했는데, \nConceptual design과 procurement을 통해, system의 요구사항, 목적, 특징들을 명세화 한 후, 어떻게component들이 구성이 되며, 어떤 방식을 조달할 지에 대한 결정을 한다. \n이후 development 과정에서 component들의 구성이 이루어진다. \n그러한 과정을 거친 후에, operation과정을 거쳐 system이 운용이 올바르게 이루어져야한다. 이 모든 과정은 시스템의 요구사항이 모두 충족될 때까지 반복된다.\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6AC98AD7-67D5-44FC-935F-46F1B556F609",
+        "type": "message",
+        "text": "이렇게 적었습니당",
+        "user": "U01QBGLB57Z",
+        "ts": "1615382253.017700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "50B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이렇게 적었습니당"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44390d31-a72b-4eaa-b2a6-2c7c54c6f856",
+        "type": "message",
+        "text": "다들 비슷하게 적은 것 같네요! Conceptual design에서 시스템의 요구사항, 목적, 컨셉들을 문서화 한 후 Procurement에서 component 들을 직접 구현할지 구매가능한 것들은 구매할지 결정하고, development 과정에서 components들을 살건 사고 구현할건 하면서 구성을하고 operation에서 배포한다 이렇게 적었습니다.",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382363.022400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s5MfA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다들 비슷하게 적은 것 같네요! Conceptual design에서 시스템의 요구사항, 목적, 컨셉들을 문서화 한 후 Procurement에서 component 들을 직접 구현할지 구매가능한 것들은 구매할지 결정하고, development 과정에서 components들을 살건 사고 구현할건 하면서 구성을하고 operation에서 배포한다 이렇게 적었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "666bda91-cf66-41bc-84b9-85bb1f9cd97f",
+        "type": "message",
+        "text": "procurement와 development는 서로 equipment와 소프트웨어 업그레이드를 주고 받는 관계에 있고, 개발의 경우 이후 evolution과의 deployment와 system evolution을 주고 받는 관계에 있는 듯합니닫.",
+        "user": "U01QBGBRH6K",
+        "ts": "1615382385.024000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Uem",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "procurement와 development는 서로 equipment와 소프트웨어 업그레이드를 주고 받는 관계에 있고, 개발의 경우 이후 evolution과의 deployment와 system evolution을 주고 받는 관계에 있는 듯합니닫."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cd26feb-6338-4072-b3e7-1a7fe0cd0dda",
+        "type": "message",
+        "text": "System engineering process consists of conceptual design, procurement, development, and operation. Conceptual design is a stage where purpose of the system is defined. Procurement is\na stage where high-level system requirements are defined and decisions about purchase of software is made.\n\nSystem engineering 프로세스는 conceptual design, procurement, development 그리고 operation으로 구성된다. Conceptual design은 시스템의 목적이 정의되는 단계이다 Procurement는 high-level 시스템 요구사항이 정의되고 소프트웨어를 구매할지에 대한 결정을 하는 단계라고 적었습니다. 딴 생각했는지 뒤에는 빼먹었네요... 추가해서 올리도록 하겠습니다.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615382398.024900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q54VG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "System engineering process consists of conceptual design, procurement, development, and operation. Conceptual design is a stage where purpose of the system is defined. Procurement is\na stage where high-level system requirements are defined and decisions about purchase of software is made.\n\nSystem engineering 프로세스는 conceptual design, procurement, development 그리고 operation으로 구성된다. Conceptual design은 시스템의 목적이 정의되는 단계이다 Procurement는 high-level 시스템 요구사항이 정의되고 소프트웨어를 구매할지에 대한 결정을 하는 단계라고 적었습니다. 딴 생각했는지 뒤에는 빼먹었네요... 추가해서 올리도록 하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1e3ea4a-15f0-4f28-bccb-d4bd8033a409",
+        "type": "message",
+        "text": "추가적으로 operation이후에 기능 추가나 버그 수정등을 위해서 development나 procure과정으로도 돌아갈 수 있다는 것도 적어두었네요..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382407.025500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rn2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "추가적으로 operation이후에 기능 추가나 버그 수정등을 위해서 development나 procure과정으로도 돌아갈 수 있다는 것도 적어두었네요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea9fc2d2-428b-4803-86f0-3d94b59d9dde",
+        "type": "message",
+        "text": "마찬가지로 conceptual design의 경우 전 단계에 걸쳐서 system vision을 제공하지 않을까요",
+        "user": "U01QBGBRH6K",
+        "ts": "1615382408.025600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ia7cp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "마찬가지로 conceptual design의 경우 전 단계에 걸쳐서 system vision을 제공하지 않을까요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "948d7cbf-30c8-4e3b-acb5-f28180a5241a",
+        "type": "message",
+        "text": "일반적으로 Conceptual design -&gt; procurement -&gt; development -&gt; operation을 순서를 통해서 이루어지는데.\n일련의 과정을 하면서 단방향적으로 이루어지는 것이 아니라 각 단계들을 iterate 하면서 돌아간다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382409.025700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일반적으로 Conceptual design -> procurement -> development -> operation을 순서를 통해서 이루어지는데.\n일련의 과정을 하면서 단방향적으로 이루어지는 것이 아니라 각 단계들을 iterate 하면서 돌아간다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6e93591-456a-49ae-916d-cdfb2c36bdcc",
+        "type": "message",
+        "text": "그러면 왜 iterate를 하는 이유에 대해서 더 적어볼까요?",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382499.026100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Lkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그러면 왜 iterate를 하는 이유에 대해서 더 적어볼까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df81cbf5-bf0d-4abb-ae1c-74d59844e80a",
+        "type": "message",
+        "text": "버그나 기능수정 : opeartion -&gt; develop으로 돌아가는 것",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382534.027000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3QS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "버그나 기능수정 : opeartion -> develop으로 돌아가는 것"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abfba56e-93ef-4cab-89dd-474a5ef9fe86",
+        "type": "message",
+        "text": "COTs하려고 했던 components들 중에 기존 시스템과 서로 호환이 되지 않거나 사용할 수 없는 opensource의 경우에 새로운 open source를 찾거나 개발하는 경우 develop에서 procurement",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382641.029600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jver0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "COTs하려고 했던 components들 중에 기존 시스템과 서로 호환이 되지 않거나 사용할 수 없는 opensource의 경우에 새로운 open source를 찾거나 개발하는 경우 develop에서 procurement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be2aea51-30d2-4d84-8f2a-2ac9518153c6",
+        "type": "message",
+        "text": "일것같습니당",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382645.029800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pww1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일것같습니당"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9CB1680D-9125-4146-AF75-C537AC4DAE70",
+        "type": "message",
+        "text": "6번 얘기할까용??",
+        "user": "U01QBGLB57Z",
+        "ts": "1615382756.031000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=pV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6번 얘기할까용??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d37645ae-0cff-4d65-aa06-f88324a71288",
+        "type": "message",
+        "text": "Standard나 needs 등의 requirements가 변하면 conceptual design 단계로 돌아가는 것도 가능한것 같습니다.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615382765.031300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pl5iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Standard나 needs 등의 requirements가 변하면 conceptual design 단계로 돌아가는 것도 가능한것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d70fae4d-db5e-4846-bd68-d9402fb9fe02",
+        "type": "message",
+        "text": "네 6번으로 넘어가볼게요",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382795.031800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLdP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 6번으로 넘어가볼게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2c508ea-5d77-4c9d-b9fb-2b6efa7e70a6",
+        "type": "message",
+        "text": "저희 6번전에",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382828.032600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저희 6번전에"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13732a4f-abc1-4e2e-a768-4995e037bf4c",
+        "type": "message",
+        "text": "차라리 5번",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382829.032700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "차라리 5번"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afcb3756-1dcd-4013-bffb-90de196cfaad",
+        "type": "message",
+        "text": "네네",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382831.033100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "291f2a9d-c75e-4817-8527-2e3f2edcd40b",
+        "type": "message",
+        "text": "해봅시다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382833.033300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qujTY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해봅시다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5646e47-9287-4f5f-9a3c-bf55b5753706",
+        "type": "message",
+        "text": "To improve the speed.\nThere can be unexpected problem in next step and that problem should aspect in previous step",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382852.033800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2fS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To improve the speed.\nThere can be unexpected problem in next step and that problem should aspect in previous step"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa34387d-f466-4f54-81a7-51b216235c8e",
+        "type": "message",
+        "text": "개발하는 분야 자체를 서브시스템으로 나눠야지 parallel이 가능하다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615382933.034900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSH1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개발하는 분야 자체를 서브시스템으로 나눠야지 parallel이 가능하다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60e0e42c-4e97-41a7-93eb-02005a20c35d",
+        "type": "message",
+        "text": "그렇게 해야 오류가 생겨도 겹쳐서 꼬이는 propagation이 최소화될 것 같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615382957.035500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그렇게 해야 오류가 생겨도 겹쳐서 꼬이는 propagation이 최소화될 것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b20bd64-fd2d-4217-bbb4-0b6fcb5740ed",
+        "type": "message",
+        "text": "애초에 초기 계획자체를 정확히해둬야할것같아요",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615382972.035900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Djp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "애초에 초기 계획자체를 정확히해둬야할것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "855810a7-9204-4ae1-a195-e75ed2ef6e8e",
+        "type": "message",
+        "text": "저도 동의해요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615382986.036400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=+w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 동의해요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "681748FF-3EA0-42F8-9FEB-F3A52081CB84",
+        "type": "message",
+        "text": "저도 동의합니다",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383007.037600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5Oo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 동의합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d923c2b-4873-4607-a6db-cb95e0d5cf55",
+        "type": "message",
+        "text": "plan을 잘 세워서 다른 development process에 영향 받지 않고 plan에 따라 개발만 할 수 있게 해야 parallel하게 개발할 수 있을것 같아요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615383023.038500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wc+Q4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plan을 잘 세워서 다른 development process에 영향 받지 않고 plan에 따라 개발만 할 수 있게 해야 parallel하게 개발할 수 있을것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "287d0421-5663-4edc-a55a-d059bd444948",
+        "type": "message",
+        "text": "요구사항을 잘 정의해두는것도 중요할것 같아요. 우리는 무엇을 할건데(fucntion) 무엇을 어디로 받고(input) 무엇을 어디로 보내는지(output)",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615383028.038700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAtw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "요구사항을 잘 정의해두는것도 중요할것 같아요. 우리는 무엇을 할건데(fucntion) 무엇을 어디로 받고(input) 무엇을 어디로 보내는지(output)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d107508-f2bf-4e19-9a90-fe78a37e68aa",
+        "type": "message",
+        "text": "그런 의미에서 병렬 개발을 할때는 좀 더 명확하게 프로토콜이나 템플릿을 획일화 해두는게 좋을것같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615383038.039200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5yzfg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그런 의미에서 병렬 개발을 할때는 좀 더 명확하게 프로토콜이나 템플릿을 획일화 해두는게 좋을것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c39d84de-b3fb-4c20-a888-9a42b8c0bb4d",
+        "type": "message",
+        "text": "네 저는 그걸 plan이라고 표현한것 같아요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615383043.039500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 저는 그걸 plan이라고 표현한것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3af0161d-bf86-4926-b7f4-aa6d645d89c4",
+        "type": "message",
+        "text": "저 같은 경우 여러 전문가들이 섞여있기 때문에 서로의 전문적 영역에 대한 의사소통 과정이 더욱 필요하다고 봅니다. 아마 plan과 겹치는 사항인 듯 합니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615383054.039800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZvaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저 같은 경우 여러 전문가들이 섞여있기 때문에 서로의 전문적 영역에 대한 의사소통 과정이 더욱 필요하다고 봅니다. 아마 plan과 겹치는 사항인 듯 합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a2eac71-a215-46f8-b637-9ded5bbd0360",
+        "type": "message",
+        "text": "병렬이라는 데에 중점을 두고 고려할 사항이니",
+        "user": "U01QYLF09FE",
+        "ts": "1615383114.040100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kBN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "병렬이라는 데에 중점을 두고 고려할 사항이니"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b50fb99-706a-47e9-9579-85176718bf57",
+        "type": "message",
+        "text": "이정도면 잘 짚어낸 것 같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615383131.040600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이정도면 잘 짚어낸 것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e79105dc-b376-45ff-b640-d7b4a808e481",
+        "type": "message",
+        "text": "그럼 7번으로 넘어가도괜찮을까요?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383177.041100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 7번으로 넘어가도괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a5db18c-8375-46d0-9a6d-78b49608960d",
+        "type": "message",
+        "text": "동의합니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615383182.041700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xx\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "동의합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c25f9f85-d54e-47d3-b6dd-d91468eddefa",
+        "type": "message",
+        "text": "네 좋습니다",
+        "user": "U01QYLF09FE",
+        "ts": "1615383182.041800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 좋습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0A620038-5C7B-4835-8000-E499502B098D",
+        "type": "message",
+        "text": "좋습니다!",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383188.042100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5E4ee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96af8c78-d376-4359-9e39-a493ac0d25e4",
+        "type": "message",
+        "text": "세린님먼저",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383251.042600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tteL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세린님먼저"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d63dca30-13e7-45a2-9d61-3929e09dd062",
+        "type": "message",
+        "text": "말씀해주실 수 있나요?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383255.042900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LyTIl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "말씀해주실 수 있나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6525D2FE-14A0-43E1-A739-4BFAA5F38A4D",
+        "type": "message",
+        "text": "넵넵",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383281.043600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYh\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C13E134C-BCB9-4117-87CE-AA5C2718A1B4",
+        "type": "message",
+        "text": "procurement 과정은 특정 조직의 요구에 따라 system(set)을 acquire하는 과정으로, 시스템의 범위, 가용시간\/예산, 높은 수준의 시스템의 요구사항을 고려하며 무엇을 조달할 것인지 결정하는 단계이다. ",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383354.045300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "procurement 과정은 특정 조직의 요구에 따라 system(set)을 acquire하는 과정으로, 시스템의 범위, 가용시간\/예산, 높은 수준의 시스템의 요구사항을 고려하며 무엇을 조달할 것인지 결정하는 단계이다. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b97dbcb-ed50-40f8-8510-d39e0815e9ec",
+        "type": "message",
+        "text": "system engineering 모든 단계가 system에 영향을 미칠수 있다 생각했는데 procurement가 특히 functionality에 영향을 미치는것 같아요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615383379.046200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "moBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "system engineering 모든 단계가 system에 영향을 미칠수 있다 생각했는데 procurement가 특히 functionality에 영향을 미치는것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "570acf4b-df0e-4d24-bd4e-8b080b3e3b5f",
+        "type": "message",
+        "text": "만약 시스템이나 공급자가 잘못 골라진다면, 원래 계획에서 의도치 않은 사항이나, 기능 부족, 통합 시 잘못된 연결 등 여러 문제가 일어날 수 있다고 봅니다.",
+        "user": "U01QBGBRH6K",
+        "ts": "1615383385.046600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vnr6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "만약 시스템이나 공급자가 잘못 골라진다면, 원래 계획에서 의도치 않은 사항이나, 기능 부족, 통합 시 잘못된 연결 등 여러 문제가 일어날 수 있다고 봅니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FAA20AF2-6BDA-4A08-A2FC-5D748A0B2672",
+        "type": "message",
+        "text": "Procurement 단계에서 옳지 못한 결정은 늦은 배포, 전달 혹은 작동 환경에 적합하지 않는 개발을 초래할 수 있다고도 적었습니다",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383395.046800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Procurement 단계에서 옳지 못한 결정은 늦은 배포, 전달 혹은 작동 환경에 적합하지 않는 개발을 초래할 수 있다고도 적었습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e71b7dfd-8764-4205-9f47-5e4fa3b7f775",
+        "type": "message",
+        "text": "아웃소싱해온 요소라 직접 만든 요소보다도 오류가 propagate되는데에 취약할수도 있지 않을까 생각합니다",
+        "user": "U01QYLF09FE",
+        "ts": "1615383430.047900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ag+NB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아웃소싱해온 요소라 직접 만든 요소보다도 오류가 propagate되는데에 취약할수도 있지 않을까 생각합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea0a4154-9e95-46ff-a53f-bcead8498b8c",
+        "type": "message",
+        "text": "그 예산이나 시간도 procurement에서 결정하니까, testing부분에서도 시간이나 예산문제로 충분히하지 못했을때 에러가 더 많이 발생할수 있어서 reliability가 떨어질 것 같아요!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383457.048800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그 예산이나 시간도 procurement에서 결정하니까, testing부분에서도 시간이나 예산문제로 충분히하지 못했을때 에러가 더 많이 발생할수 있어서 reliability가 떨어질 것 같아요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01QPF0KJ77"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ca0684a-5803-4716-8c55-0e10bc78c41e",
+        "type": "message",
+        "text": "비효율적으로 예산을 낭비하는 일이 생길수도 있겠네요",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615383460.049000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B\/Ft3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "비효율적으로 예산을 낭비하는 일이 생길수도 있겠네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1241d9a7-3317-4679-aa8a-4e1f973ebd79",
+        "type": "message",
+        "text": "cost 뿐만이 아니라 시간 역시 고려 요소라고 하셨어요",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615383487.050700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cost 뿐만이 아니라 시간 역시 고려 요소라고 하셨어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99bc244b-96c3-4753-981e-faf2b58d3afa",
+        "type": "message",
+        "text": "이제 8번으로 넘어가도 괜찮을까요?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383517.050800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4M9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이제 8번으로 넘어가도 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A2EF2D4-981C-436D-B324-D4161A18B7BB",
+        "type": "message",
+        "text": "좋습니다!!",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383527.051100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jg6Ik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e503d08-9185-4cec-9024-8a86cc798d22",
+        "type": "message",
+        "text": "Requirement engineering\nArchitectural design\nRequirements partitioning\nSubsystem engineering\nSystem integration\nSystem testing\nSystem deployment",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615383548.051400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bx1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Requirement engineering\nArchitectural design\nRequirements partitioning\nSubsystem engineering\nSystem integration\nSystem testing\nSystem deployment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bb6ab9c-2502-4e19-9019-65265ffd98fd",
+        "type": "message",
+        "text": "7개가 나오는데",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615383553.051600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vj5vQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7개가 나오는데"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef191738-2ddb-4ea2-9c5f-c8ffa714cdb5",
+        "type": "message",
+        "text": "Requirement engineering -&gt; 사용자의 니즈를 잘 맞추고 있는지",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615383689.053600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qtT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Requirement engineering -> 사용자의 니즈를 잘 맞추고 있는지"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d7f1b43-d85f-454c-bd7b-3bf636dec40b",
+        "type": "message",
+        "text": "저는 시스템의 구성요소들의 dependability가 development process에 의해 결정되는데, 각각의 process가 서로에게 영향을 주기 때문에 하나의 activity가 전체 시스템 dependability에 영향을 줄 수 있다 적었습니다.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615383711.054900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 시스템의 구성요소들의 dependability가 development process에 의해 결정되는데, 각각의 process가 서로에게 영향을 주기 때문에 하나의 activity가 전체 시스템 dependability에 영향을 줄 수 있다 적었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "287a1507-d035-4cd6-8b43-6a619fcfe61b",
+        "type": "message",
+        "text": "예시를 들자면, requirement 를 정의할 때, 원치않는 특성을 제대로 정의하지 않고 개발을 한다면 잘못된 동작과 보안 상의 해를 끼칠수 있다고 봅니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615383712.055100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zb60",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "예시를 들자면, requirement 를 정의할 때, 원치않는 특성을 제대로 정의하지 않고 개발을 한다면 잘못된 동작과 보안 상의 해를 끼칠수 있다고 봅니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e2407a4-4625-4c6b-841b-5155d654b1aa",
+        "type": "message",
+        "text": "유진님 말씀처럼 Architectural design에서는 components들의 구성과 상호작용 설계가 정확히 이루어져야 추후에 integrating할때도 문제가 발생하지 않을것 같습니다",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383733.055900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KSnDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "유진님 말씀처럼 Architectural design에서는 components들의 구성과 상호작용 설계가 정확히 이루어져야 추후에 integrating할때도 문제가 발생하지 않을것 같습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3F34D676-0F56-426B-AEE2-57A13CC5CDF1",
+        "type": "message",
+        "text": "저도 유진님과 비슷하게 작성했습니다. \n개발 과정은 평행적으로 진행된다. 이로 인해 각 서브시스템간의 통합이 일어나므로 전반적인 system dependability에 영향을 미칠 수 있다.\n라고 적었네요",
+        "user": "U01QBGLB57Z",
+        "ts": "1615383744.056100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0LRpA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 유진님과 비슷하게 작성했습니다. \n개발 과정은 평행적으로 진행된다. 이로 인해 각 서브시스템간의 통합이 일어나므로 전반적인 system dependability에 영향을 미칠 수 있다.\n라고 적었네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "989d9128-fef3-439d-a065-caa98a9e7a34",
+        "type": "message",
+        "text": "위에 reliability에 시간이나 예산이 문제가 될 수 있다고 했는데, testing을 충분히 거치지못하면 결국 dependability에도 영향을 미칠 것 같아요",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615383777.056800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위에 reliability에 시간이나 예산이 문제가 될 수 있다고 했는데, testing을 충분히 거치지못하면 결국 dependability에도 영향을 미칠 것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e367a291-00ad-418a-866b-014a70da6d19",
+        "type": "message",
+        "text": "저희 10번 마지막으로 진행해도 될까요??",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384102.057800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dew7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저희 10번 마지막으로 진행해도 될까요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9b958f8-0cb0-456c-acf9-67f234e5261b",
+        "type": "message",
+        "text": "아 9번",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384107.058200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3s=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 9번"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a92f08a-5b67-4182-8db2-8c6137226ba9",
+        "type": "message",
+        "text": "넵",
+        "user": "U01QBGBRH6K",
+        "ts": "1615384112.058400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2313bed-4d52-49f1-8469-f2d756002bbe",
+        "type": "message",
+        "text": "Compiler\nIgnore strange input\nPredictive text input",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615384115.058700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQBSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Compiler\nIgnore strange input\nPredictive text input"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "262F2D66-9DE2-4930-BBE3-FF330FB1524B",
+        "type": "message",
+        "text": "넵넵",
+        "user": "U01QBGLB57Z",
+        "ts": "1615384118.058800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eec4642-1cf0-4d86-b24e-2d692ad7718d",
+        "type": "message",
+        "text": "zero-division problem 도 넣을 수 있을것같아요",
+        "user": "U01QBGBRH6K",
+        "ts": "1615384130.059600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYweP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "zero-division problem 도 넣을 수 있을것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fd8a050-5a84-4d1b-b08d-233aed70759f",
+        "type": "message",
+        "text": "저는 ux\/ui적으로 warning띄우는거랑",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384141.060300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g5eB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 ux\/ui적으로 warning띄우는거랑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e43d90ca-de98-46f8-afdd-838ea599427d",
+        "type": "message",
+        "text": "권한제한..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384145.060700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "66N=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "권한제한.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef976d99-3d3b-4baa-82e7-bdcf95198a5e",
+        "type": "message",
+        "text": "저는 명확한 UI, 경고 메시지, 접근 제한을 예시로 들었습니다",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384147.061000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 명확한 UI, 경고 메시지, 접근 제한을 예시로 들었습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3196c81c-d5db-4143-b2a4-2b021bdf7523",
+        "type": "message",
+        "text": "요런거로적었어요",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384148.061200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PI6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "요런거로적었어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44242b22-f773-43c8-a238-9f62dded22ac",
+        "type": "message",
+        "text": "이진탐색법으로 디버깅하는 경우도 생각해봤습니다",
+        "user": "U01QYLF09FE",
+        "ts": "1615384153.061400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKT7j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이진탐색법으로 디버깅하는 경우도 생각해봤습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77003caa-4a86-4481-a6dd-34ca25982a2c",
+        "type": "message",
+        "text": "네네 저도 실제 deploy에 초점을 맞췄어요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384157.061600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VDjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네 저도 실제 deploy에 초점을 맞췄어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd5a89f9-5a33-44d8-8c15-4856e87888fe",
+        "type": "message",
+        "text": "명확한 UI라고하시는건 직관적이고 사용이 쉬운 UI를 말씀하시는거죠?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384236.062900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Sh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "명확한 UI라고하시는건 직관적이고 사용이 쉬운 UI를 말씀하시는거죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b31aab30-9e23-487b-af4a-1c63b6eb206c",
+        "type": "message",
+        "text": "네네",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384242.063400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "osD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B310BDCA-737F-4165-9BAB-40AD136E572B",
+        "type": "message",
+        "text": "저는 human error으로 인한 피해가 최소화되기 위해 barrier이 필요한 경우로 믄제를 해석했어서",
+        "user": "U01QBGLB57Z",
+        "ts": "1615384247.063700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "001w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 human error으로 인한 피해가 최소화되기 위해 barrier이 필요한 경우로 믄제를 해석했어서"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7495b60-e1f3-4f5e-8bc5-52dba1b30878",
+        "type": "message",
+        "text": "폰트나 색깔이 여기에 포함이 될 수 있다고 생각해요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384254.064300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTb8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "폰트나 색깔이 여기에 포함이 될 수 있다고 생각해요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87d2a710-40f8-45b5-adb3-0498db269c42",
+        "type": "message",
+        "text": "단순히 값만 고려한 UI가 아니라 심리적으로 와닿는 부분도 고려해야한다는거죠",
+        "user": "U01QYLF09FE",
+        "ts": "1615384255.064500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "단순히 값만 고려한 UI가 아니라 심리적으로 와닿는 부분도 고려해야한다는거죠"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13C0C989-4F95-438E-A29A-235D1D5125F0",
+        "type": "message",
+        "text": "Human error으로 인해 인명 피해가 발생할 수 있는 air traffic cntrol시스템엔",
+        "user": "U01QBGLB57Z",
+        "ts": "1615384396.067900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Human error으로 인해 인명 피해가 발생할 수 있는 air traffic cntrol시스템엔"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54FCF7A1-03F8-4E68-A79D-FBB31618AED0",
+        "type": "message",
+        "text": "배리어가 필요하다고 적었는데 ㅋㅋㅋㅋ 문제이해를 잘못한 것 같어요",
+        "user": "U01QBGLB57Z",
+        "ts": "1615384416.068900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VlM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "배리어가 필요하다고 적었는데 ㅋㅋㅋㅋ 문제이해를 잘못한 것 같어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e01ffe1-a871-4701-bc52-2241ef47251a",
+        "type": "message",
+        "text": "꼭 deploy 단계가 아니더라도 procurement에서 평가하고 하는 부분도 사람의 주관성이 개입하는거라 error가 생길 수 있을 것 같습니다.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384453.069500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "꼭 deploy 단계가 아니더라도 procurement에서 평가하고 하는 부분도 사람의 주관성이 개입하는거라 error가 생길 수 있을 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3cc5d7a-4096-48b7-ae27-4e5b58fe0908",
+        "type": "message",
+        "text": "좋은의견이..많네요..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384466.069800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jiq5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋은의견이..많네요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0964b312-af6e-4f76-b448-eb862703d022",
+        "type": "message",
+        "text": "그럼 마지막으로 10번 진행하겠습니다!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384476.070100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EDEuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 마지막으로 10번 진행하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3e38b84-d8ec-432b-8fdf-3d3fb50a3ead",
+        "type": "message",
+        "text": "넵 !",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384480.070300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZLZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7241b141-5c02-421b-9847-024b26e0c17a",
+        "type": "message",
+        "text": "저는 10번에서 구매가능한 COTs가 없는 경우 기술적으로 개발이 가능한지,, 그부분에 cost가 많이 소비될 것 같습니당 시간적인거든 돈문제든..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384522.071200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 10번에서 구매가능한 COTs가 없는 경우 기술적으로 개발이 가능한지,, 그부분에 cost가 많이 소비될 것 같습니당 시간적인거든 돈문제든.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f265743c-04e1-43af-827b-02b998f0e606",
+        "type": "message",
+        "text": "새로운 기술이 기존의 시스템에 ideal 하지 않아서, 최적화 시키는데 추가비용이 발생한다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615384564.072600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ws0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "새로운 기술이 기존의 시스템에 ideal 하지 않아서, 최적화 시키는데 추가비용이 발생한다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40b26faf-9d8a-4d5d-9832-6f658fa92b9e",
+        "type": "message",
+        "text": "기존의 시스템은 그 변화를 받아들일 고려를 안했기 때문에 기존의 시스템에 많은 변화가 주어저야 한다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615384581.073700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmEIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기존의 시스템은 그 변화를 받아들일 고려를 안했기 때문에 기존의 시스템에 많은 변화가 주어저야 한다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d67f3ade-7dab-49d8-9e22-7995e9e23e62",
+        "type": "message",
+        "text": "여러 측면 ( 비지니스, 기술적 ) 에서 다시 고려를 해야되기 때문에, 모든 측면을 고려하기 위해 또 비용이 추가 된다고 생각합니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615384595.074500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v94e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여러 측면 ( 비지니스, 기술적 ) 에서 다시 고려를 해야되기 때문에, 모든 측면을 고려하기 위해 또 비용이 추가 된다고 생각합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42e217bc-e96d-4bff-9563-5cbee81746ed",
+        "type": "message",
+        "text": "저는 완성된 시스템이면 components끼리 서로 잘 엮여서 운영중일텐데, 새로운 component를 추가해서 다시 구성하는 비용이 새로 개발하는 비용이랑 비슷하지 않은가 생각합니다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615384602.074800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 완성된 시스템이면 components끼리 서로 잘 엮여서 운영중일텐데, 새로운 component를 추가해서 다시 구성하는 비용이 새로 개발하는 비용이랑 비슷하지 않은가 생각합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "def33e58-9892-4f79-b4c1-c42fdbb74e02",
+        "type": "message",
+        "text": "기존의 시스템이 재대로 추가되기 위해서는 기존의 시스템의 모든 단계에 대한 분석이 이루어저야 하고 이는 추가 비용을 발생시킨다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615384610.075200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+g1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기존의 시스템이 재대로 추가되기 위해서는 기존의 시스템의 모든 단계에 대한 분석이 이루어저야 하고 이는 추가 비용을 발생시킨다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ef7e8b3-dc64-4569-9d3a-c1a8563dccd4",
+        "type": "message",
+        "text": "저는 처음 design하고 하는 단계에서 명확한 기준을 가지고 문서화시켜서 개발하지 못하는 경우가 많아서 최초의 기준을 기반으로 evolution하기에 어려움이 있을것 같다는 의견도 적었어요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384650.076300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "he2x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 처음 design하고 하는 단계에서 명확한 기준을 가지고 문서화시켜서 개발하지 못하는 경우가 많아서 최초의 기준을 기반으로 evolution하기에 어려움이 있을것 같다는 의견도 적었어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AFB33246-128B-4AEF-B771-83393888509F",
+        "type": "message",
+        "text": "서브시스템 사이의 interact 과정에서 예상 외의 문제가 발생할 수 있고, 또 system의 구조는 변화가 있을 때, 손상이 있을 수 있어 이를 해결하는 과정에서 비용이 발생할 수 있다",
+        "user": "U01QBGLB57Z",
+        "ts": "1615384688.077300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mps8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서브시스템 사이의 interact 과정에서 예상 외의 문제가 발생할 수 있고, 또 system의 구조는 변화가 있을 때, 손상이 있을 수 있어 이를 해결하는 과정에서 비용이 발생할 수 있다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58FF8A91-8EAA-4FDE-8761-E88072CDDD2B",
+        "type": "message",
+        "text": "라고 적었습니다!!",
+        "user": "U01QBGLB57Z",
+        "ts": "1615384723.077900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZ6Df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "라고 적었습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59291e24-25cb-4a30-9a8a-955a312e3aa6",
+        "type": "message",
+        "text": "그  design단계에서 기준이 명확하지 않다는게 당시에 충분히 논의되지 않고 개발에 착수된 경우 말씀하시는건가요?",
+        "user": "U01QYLF09FE",
+        "ts": "1615384790.078600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kejh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그  design단계에서 기준이 명확하지 않다는게 당시에 충분히 논의되지 않고 개발에 착수된 경우 말씀하시는건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82f35d6c-8835-4968-8de2-8cdd5a08c9d3",
+        "type": "message",
+        "text": "그럴수도 있고 모든 결정에 항상 명확한 기준을 가지고 결정하기 어려운 문제 자체도 있는것 같아요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384827.079200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLbrD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럴수도 있고 모든 결정에 항상 명확한 기준을 가지고 결정하기 어려운 문제 자체도 있는것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cac7c6e2-f0c9-4372-a378-eae9c1cc5e34",
+        "type": "message",
+        "text": "그럼 오늘의 토론은 여기까지 하면 될 것 같습니다! 혹시 추가할 내용 있으신가요??",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615384972.079800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 오늘의 토론은 여기까지 하면 될 것 같습니다! 혹시 추가할 내용 있으신가요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd6ccc83-f776-4ec5-aedc-8a24ddfa08c5",
+        "type": "message",
+        "text": "questions from your ownself는 각자 하는걸로 하는건가요 ?",
+        "user": "U01QPF0KJ77",
+        "ts": "1615384999.080400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJKIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "questions from your ownself는 각자 하는걸로 하는건가요 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6f9bbd0-4ef2-4b96-9feb-32ba00325de3",
+        "type": "message",
+        "text": "여기서 나온 토론 내용으로 더 찾아봐ㅏ도 좋을것같아ㅏ요",
+        "user": "U01QYLF09FE",
+        "ts": "1615385016.081000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r6dP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여기서 나온 토론 내용으로 더 찾아봐ㅏ도 좋을것같아ㅏ요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd1355ce-2ec8-4b55-b587-3b6290a7cb46",
+        "type": "message",
+        "text": "*더 생각해봐도",
+        "user": "U01QYLF09FE",
+        "ts": "1615385023.081300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3b+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*더 생각해봐도"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f8a9738-1cb2-4b98-9570-ee6d36494655",
+        "type": "message",
+        "text": "혹시.. 질문이나 그에 대한 답을 공유하고싶으신가욥?",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615385030.081500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n6h5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시.. 질문이나 그에 대한 답을 공유하고싶으신가욥?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ab06330-5140-49e9-8422-dc409830247f",
+        "type": "message",
+        "text": "전 좋아요",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615385040.081700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a6xO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "전 좋아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f5446cd-5184-48ac-8944-bdb2a2934dfd",
+        "type": "message",
+        "text": "근데 아직 안했는데",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615385043.082200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PiL9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "근데 아직 안했는데"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f305f28-0db6-4c21-8caa-814757ea0398",
+        "type": "message",
+        "text": "하고 올릴까요?",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615385047.082600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BS2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하고 올릴까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a1978be-e259-4c08-8665-e0808187222c",
+        "type": "message",
+        "text": "구글 드라이브상으로만 참고하는걸로 할까요 ?",
+        "user": "U01QPF0KJ77",
+        "ts": "1615385056.083100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+t0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "구글 드라이브상으로만 참고하는걸로 할까요 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01QS9C5DUJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c58b283-36cb-481e-ab26-99f552ae58f3",
+        "type": "message",
+        "text": "음 개인 질문은 각자 작성후에 구글드라이브에 올려주세요1",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615385063.083300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s82M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "음 개인 질문은 각자 작성후에 구글드라이브에 올려주세요1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c724085-9f87-4bd9-b1da-3c4460080a01",
+        "type": "message",
+        "text": "!!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615385064.083500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1=FF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8b3ece6-fc77-4118-aba2-f6260db3617a",
+        "type": "message",
+        "text": "네네",
+        "user": "U01QPF0KJ77",
+        "ts": "1615385068.083800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d05f4f23-7b82-48e3-ab6a-e430f71fe193",
+        "type": "message",
+        "text": "그럼 여기서 마무리 하겠습니다!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615385081.084100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=t3II",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 여기서 마무리 하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a99e03e3-4890-425d-b84d-5432456ffcb3",
+        "type": "message",
+        "text": "늦은시간까지 고생많으셨어요~",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615385091.084500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "늦은시간까지 고생많으셨어요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e5d7cf4-09a3-4d6f-a55b-ba0c41e10355",
+        "type": "message",
+        "text": "늦은 시간 고생많으셨습니다",
+        "user": "U01QPF0KJ77",
+        "ts": "1615385095.084600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "늦은 시간 고생많으셨습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79dc9bb5-a7b2-4241-bdb0-22b0d90bd256",
+        "type": "message",
+        "text": "고생 많으셨습니다!!:pray:",
+        "user": "U01QYLF09FE",
+        "ts": "1615385111.085400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=W25L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "고생 많으셨습니다!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0B36E47C-E892-457E-9417-DC38053DF3A4",
+        "type": "message",
+        "text": "다들 고생 많으셨습니다!!!",
+        "user": "U01QBGLB57Z",
+        "ts": "1615385115.085600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Jsy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다들 고생 많으셨습니다!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
